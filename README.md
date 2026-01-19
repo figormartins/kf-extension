@@ -1,6 +1,6 @@
 KF Extension
 
-1. Download extension.zip and extract the contents somewhere
+1. Download extension.rar and extract the contents somewhere
 2. In Chrome, open chrome://extensions/
 3. Click + Developer mode
 4. Click Load unpacked extension…
